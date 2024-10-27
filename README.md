@@ -4,7 +4,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@brazuleanyt)
 [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://brazulean.com/)
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurgmatheus&show_icons=true&theme=cobalt)
+![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurgmatheus&show_icons=true&theme=cobalt)
 
 ### Tecnologias que eu uso 👨‍💻
 
