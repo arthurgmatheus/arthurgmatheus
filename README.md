@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Arthur 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-matheus-80506b334/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@brazuleanyt)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@brazulean)
 [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://brazulean.com/)
 
 ![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurgmatheus&show_icons=true&theme=cobalt)
