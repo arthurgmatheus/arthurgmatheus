@@ -24,6 +24,6 @@
 
 ### Formação Acadêmica 🎓
 
-Formado em Sistemas de Informação pela Universidade Presbiteriana Mackenzie.
+Bacharel em Sistemas de Informação pela Universidade Presbiteriana Mackenzie.
 
 ![Logo da Mackenzie](https://seeklogo.com/images/U/universidade-presbiteriana-mackenzie-logo-63E75B9FCD-seeklogo.com.png)
